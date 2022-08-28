@@ -1,0 +1,191 @@
+logo{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 160px;
+    
+}
+.searchbar{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    }
+
+input{
+    width: 45%;
+    padding: 12px 20px;
+    border: 1px solid rgb(143, 135, 135);
+    background-color: white;
+    background-image: url(index.png);
+    background-size: 15px, 15px, auto;
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    opacity: 40%;
+    padding-left: 40px;
+    
+    
+}
+
+input:hover {box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.19);
+
+}
+.buttons{
+    background-color: white;
+    border: 1px grey;
+    color: rgb(65, 64, 64);
+    padding: 10px 24px;
+    margin:auto;
+    text-align: center;
+
+}
+
+.left-button{border-width: 0px;
+border-radius: 6px;
+background-color: rgb(243, 243, 243);
+color: rgb(92, 92, 92);
+cursor:pointer;
+margin-right: 10px;
+padding: 8px 15px 8px 15px;
+transition-duration: 0.4s;
+font-size: 15px;
+font-family: Arial, Helvetica, sans-serif;}
+
+.right-button{border-width: 0px;
+border-radius: 6px;
+background-color: rgb(243, 243, 243);
+color: rgb(92, 92, 92);
+cursor:pointer;
+padding: 8px 15px 8px 15px;
+transition-duration: 0.4s;
+font-size: 15px;
+font-family: Arial, Helvetica, sans-serif;}
+
+
+.button-on-left:hover{
+   border-width: 1px;
+   border-color: rgb(199, 199, 199);
+   color:black;
+   animation-fill-mode: forwards;
+}
+.button-on-right:hover{
+   border-width: 1px;
+   border-color: rgb(199, 199, 199);
+   color:black;
+   animation-fill-mode: forwards;
+
+}
+
+.google-text{ 
+    background-color: white;
+    padding: 10px 24px;
+    margin:auto;
+    text-align: center;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 16px;}
+a {text-decoration: none;}
+
+ 
+a:hover {
+     text-decoration: underline;
+     }
+
+.Country{
+    background-color: rgb(241, 241, 241);
+    position: absolute;
+    bottom: 40px;
+    left: 0px;
+    right: 0px;
+    border-top:solid rgb(209, 208, 208) 0.5px;
+    border-bottom: solid rgb(209, 208, 208) 0.5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+    color: rgb(114, 114, 114);
+    margin-top: 20px;
+}
+
+ .location{ 
+    text-align: left;
+    margin-left: 30px;}}
+
+footer{background-color: rgb(241, 241, 241);
+    position: absolute;
+    bottom: 20px;
+    left: 0px;
+    right: 0px;
+    border-top:solid rgb(209, 208, 208) 0.5px;
+    border-bottom: solid rgb(209, 208, 208) 0.5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+    color: rgb(114, 114, 114);
+    margin-top: 20px;
+    height: 40px;
+
+   } 
+ul{ position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    list-style:none;
+    margin: 0;
+    padding: 0;
+    height: 20px;
+    background-color: rgb(241, 241, 241);
+    height: 40px;}
+
+    li {
+    float: left;
+    }
+
+    li a {
+    display: block;
+    color:rgb(114, 114, 114);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-top: 10px;
+    }
+
+
+.Navbar{ 
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    color:rgb(114, 114, 114);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color:
+    ;
+    }
+.profil-image{
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    border: solid 0px;
+    border-radius: 50%;
+    width: 30px;
+    
+    }
+#Gmail{
+    color:rgb(46, 46, 46);
+    position: absolute;
+    top: 10px;
+    right: 120px;
+    }
+#Images{ color:rgb(46, 46, 46);
+    position: absolute;
+    top: 10px;
+    right: 60px;}
+
+
+
+
+
